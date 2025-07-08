@@ -28,7 +28,7 @@ Un'avventura epica di coding dove dovrai:
 
 ### 🔴 **Round 3: Maestro degli Agenti**
 **Obiettivo**: Sfide expert-level con coordinazione multi-agente
-- **Missioni**: 8 task altamente complessi inclusa Ultimate Challenge
+- **Missioni**: 5 task altamente complessi inclusa Ultimate Challenge
 - **Focus**: Advanced AI strategies, Complex optimization, Multi-agent coordination
 - **Peso Valutazione**: 40% correttezza, 40% efficienza, 20% qualità
 
