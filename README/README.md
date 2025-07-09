@@ -39,9 +39,6 @@ Un'avventura epica di coding dove dovrai:
 git clone <repository-url>
 cd hackathon-agenti-cosmici
 
-# Setup automatico
-python setup_hackathon.py
-
 # Attiva ambiente
 source hackathon_env/bin/activate  # Linux/Mac
 hackathon_env\Scripts\activate     # Windows
