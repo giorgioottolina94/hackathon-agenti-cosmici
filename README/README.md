@@ -10,7 +10,7 @@ Un'avventura epica di coding dove dovrai:
 - 🌟 **Completare missioni** di complessità crescente attraverso 3 round
 - 🚀 **Ottimizzare strategie** di navigazione, trading e gestione risorse
 - ⚡ **Gestire risorse limitate** (crediti, tempo, API calls)
-- 🏆 **Competere** con altri sviluppatori su scala globale
+- 🏆 **Competere** con altri sviluppatori
 
 ## 🌟 Round dell'Hackathon
 
